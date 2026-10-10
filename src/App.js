@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test the error in this container 
+          We are learning React and Docker together.
         </p>
         <a
           className="App-link"
